@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
-    { author: "avrill.v", quotes: "Halo Sayang " },
-    { author: "antjedtta_", quotes: "Gimane Kabar Eee? " },
-    { author: "standinshd", quotes: "Sehat Terus Yee" },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I may not with you everyday, but I love you everyday." },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I'm sorry for loving you." },
+    { author: "Dari Pacarmu Anugrah", quotes: "Halo Sayang " },
+    { author: "Dari Pacarmu Anugrah", quotes: "Gimane Kabar Eee? " },
+    { author: "Dari Pacarmu Anugrah", quotes: "Bebiakan Yuk Kalok Nak Chat La" },
+    { author: "Dari Pacarmu Anugrah", quotes: "I love you." },
+    { author: "Dari Pacarmu Frozers", quotes: "Mau Gak Jadi Pacar AKU?" },
+    { author: "Anugrah Pratama", quotes: "I Love You" },
+    { author: "Anugrah Pratama", quotes: "I'm sorry for loving you." },
 ];
